@@ -1,0 +1,72 @@
+.trainings88
+{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    background-color:rgba(233, 224, 224, 0.98);
+}
+.trainings88 h1{
+    font-size: 4.5rem;
+    font-family: 'Merriweather', serif;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+.filtercourse88
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15rem;
+    width: 60vw;
+    margin: auto;
+    margin: 2rem 0;
+    padding: 3rem 2rem;
+    border: 2px solid #e99c69 ;
+    border-radius: 15px;
+    background-color: #F6F0F0;
+}
+
+.all-fliterbtns88
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+ .filter_btn88{
+    padding: 0.5rem 2rem;
+    border-radius: 8px;
+    border: 1px solid #F58840;
+    background-color: white;
+    color: #F58840;
+}
+
+.searchFilter88
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+.searchFilter88 input
+{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 10rem;
+    border-radius: 8px;
+    border: 1px solid rgb(122, 122, 122);
+}
+.searchFilter88 button{
+    padding: 0.7rem 2rem;
+    border-radius: 8px;
+    background-color: #F58840;
+    color:white ;
+    border: none;
+}
+
+.serbtn88:active
+{
+    transform: scale(0.95);
+}

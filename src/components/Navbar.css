@@ -1,0 +1,235 @@
+.navbar88 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 75px;
+  box-shadow: 0 0 6px 3px rgba(127, 126, 126, 0.3);
+}
+
+.nav-links88 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 1.5rem;
+  padding: 10px;
+  width: 75%;
+}
+
+.nav-logo88 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.nav-logo88 img {
+  height: 70px;
+  width: 70px;
+}
+
+.links88 {
+  text-decoration: none !important;
+  margin: 4px;
+  border-radius: 10px;
+  padding: 5px 14px;
+  font-size: 1.7rem;
+  color: #f58840;
+  border: 1px solid white;
+}
+
+.active {
+  background-color: white;
+  color: #f58840 !important;
+  border: 1px solid #f58840;
+}
+
+.links88:hover {
+  border-bottom: 1px solid #f58840;
+  color: #f58840;
+  transition: 0.3s ease-in-out;
+}
+.profile88 {
+  width: 45px;
+  height: 45px;
+}
+
+.profile88 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.menu-wrap {
+  width: 25rem;
+  height: auto;
+  background-color: #f6f0f0;
+  border: 1px solid #f58840;
+  position: absolute;
+  right: 2%;
+  top: 6%;
+  border-radius: 10px;
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.image_sec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.image_sec_img88 {
+  margin-top: 10px;
+  height: 12rem;
+  width: 12rem;
+}
+.image_sec_img88 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.edit-btn {
+  padding: 0.5rem 1.5rem;
+  border-radius: 10px;
+  border: 1px solid #f58840;
+  background-color: white;
+  color: #f58840;
+}
+.edit-btn:hover {
+  background-color: #f58840;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+
+.menu_sec {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-left: 2rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  margin: auto;
+  width: 80%;
+  text-decoration: none;
+}
+.menu-link {
+  font-size: 1.6rem;
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5px;
+}
+
+.menu-link:hover {
+  text-decoration: none;
+  font-size: 500;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #f58840;
+}
+
+.sign-out {
+  width: 10rem;
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #f58840;
+  color: white;
+  border: 1px solid #f58840;
+}
+nav-logo88 .sign-out:hover {
+  background-color: white;
+  color: #f58840;
+  border: 1px solid #f58840;
+  transition: 0.3s ease-in-out;
+}
+
+.btn69 {
+  margin-left: 20px;
+  background-color: #4caf50; /* Green background color */
+  color: #fff;
+  outline: none;
+}
+.btn69:focus {
+  outline: none;
+  color: white;
+}
+.btn69:active {
+  outline: none;
+}
+.navbar88 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 75px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 6px 3px rgba(127, 126, 126, 0.3);
+}
+
+.nav-links88 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 1.5rem;
+  padding: 10px;
+  width: 75%;
+}
+
+.nav-logo88 {
+  max-width: 100%;
+  max-height: 100%;
+  padding-left: 90px;
+}
+.nav-logo88 img {
+  height: 60px;
+  width: 110px;
+}
+
+.links88 {
+  text-decoration: none !important;
+  margin: 4px;
+  border-radius: 10px;
+  padding: 5px 14px;
+  font-size: 1.8rem;
+  color: #f58840;
+  border: 1px solid white;
+  font-family: "Roboto", sans-serif;
+}
+
+.active {
+  background-color: white;
+  color: #f58840 !important;
+  border: 1px solid #f58840;
+}
+
+.links88:hover {
+  border-bottom: 1px solid #f58840;
+  color: #f58840;
+  transition: 0.3s ease-in-out;
+}
+.profile88 {
+  width: 50px;
+  height: 50px;
+}
+
+.profile88 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}

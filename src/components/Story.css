@@ -1,0 +1,14 @@
+.story88
+{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.story-head88
+{
+    font-size: 4.5rem;
+    font-family: 'Merriweather', serif;;
+}
